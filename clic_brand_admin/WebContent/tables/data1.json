@@ -1,0 +1,29 @@
+[
+    {
+        "brandID": 0,
+        "iname": "BOSCH Washing machine - Front Load",
+        "problem": "Showing error code",
+        "cdate":"12 July, 2016",
+        "lcomment":"Our expert will revert within 12 hours",
+        "status":"In Progress",
+        "Edit":"Edit"
+    },
+     {
+        "brandID": 0,
+        "iname": "BOSCH Dishwasher",
+        "problem": "Not powering on",
+        "cdate":"15 June 2016",
+        "lcomment":"Our expert will reach out within 2 hours",
+        "status":"Ready to go",
+        "Edit":"Edit"
+    },
+     {
+        "brandID": 0,
+        "iname": "BOSCH Refrigerator",
+        "problem": "Not cooling to satisfaction",
+        "cdate":"21 July 2016",
+        "lcomment":"NA",
+        "status":"Pending",
+        "Edit":"Edit"
+    }
+]
